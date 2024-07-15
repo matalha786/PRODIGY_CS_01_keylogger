@@ -22,8 +22,7 @@ This Keylogger Tool is a basic keylogging application with a graphical user inte
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/yourusername/keylogger-tool.git
-    cd keylogger-tool
+    git clone https://github.com/matalha786/PRODIGY_CS_04_keylogger
     ```
 
 2. Install the required Python library:
